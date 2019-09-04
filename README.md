@@ -5,7 +5,7 @@ Api rest(solo back-end) escrita en typescript express node js & mongodb. Hecha d
 
 * Descargar la Api:
 ```
-git clone https://github.com/MrRobotVe/node-rest-api.git
+git clone https://github.com/MrRobotVe/node-rest-ts.git
 ```
 
 * Dependencias:
